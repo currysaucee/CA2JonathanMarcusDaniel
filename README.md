@@ -82,3 +82,7 @@ These are some of the following Libraries that needs to be installed, more of th
 ## Youtube Video
 Our YouTube video can be found at
 https://youtu.be/0yecuXM2T4I
+
+## External Resource
+We have also made use of a  google spreadsheet and it can be found at
+https://docs.google.com/spreadsheets/d/e/2PACX-1vR9uZNik0MA649EzoUHepp8tRfTDCW0bioDvhs7Tu9R55qvhrvpBfL8JmBej9ZfWEEZyXaMYfmrGUGA/pubhtml
