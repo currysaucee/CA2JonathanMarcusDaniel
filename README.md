@@ -7,6 +7,7 @@ This project is done by Marcus Kho, Jonathan Au and Daniel Mario Tablan for the 
 
 ## Disclaimer
 
+Please also download the files stated in the Required Files folder.
 For more information on our project, please download the **report.docx** file.
 
 
