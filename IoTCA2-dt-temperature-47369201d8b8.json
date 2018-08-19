@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "iotca2-dt-temperature-212809",
+  "private_key_id": "47369201d8b85c716ff0b560cc6a727e0abc0578",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCkSnHt/q2VqJph\n3XAPyCVXoIve9pg84hAxf0Fr3adTCitTLpluNxeuSeq9CdE/NSE91OllgbpXI3IK\nrCapj+tybwPPS/x4gEhjcIJWhLOaYDrzpQG6PV954i7DAfeG4SUp/1W9pqGSOd4a\njp4eIcFxM8hXzZxZmLFAB70HeNnmRL0kNx9K2UkEz4qHoivOnGzSzcnpRWlxBmXm\n8uLawWrSvC1coTqonFb2tLbOEtZyes9dLzUhsP9Wd1wo8Y0BnWei7ZfivFZ7Me6n\niir3zfgOnw9HjiZwqXB0ATZr3CUO9PJ8DjEPECOqHVL+NxBvYBhqJcXqt8Pbw91X\nF4U4pYYZAgMBAAECggEABk2u6l07psLVzYxz+L8Ko76Or0rR04Au8984kN1rxpVc\nzS+8Bk0J1Q+T+JXQV/b/ZAJvxAvCrQY4oW0yfI3/kB/vSvxU3wC5BkuyTISB6Zno\nmSGLG+yv5ZrGhYflSeEIjoBz9zdV+qjKu0UejvRnmiLM/IVwisV/g3/ogkliPuHz\niTynTj+UgcMWgsoMPWf4ZBFAXBRjpV+wyc+Soa9neGq0LvZh/ik/kpc/kI2dJFfq\nLvl3uPlN/s9DyRk/chRdyjnhuj+v6ThLe1KIHiWBFQwkezomnuVnntnKOZkkh1oY\njBItURAXNRg9Me6fMvevOsBkMDKwFH95mIK40gEEqQKBgQDWR6usBGKWjwDsoxUP\n9XM3pR4J7znCL9m3TeejyXP8z06K3yWxBHwtas40/SY/WrkPuRtu+sldl7J55Ev5\nw0VhJXkOgQ0hrlWR2HC5DFauyE/+4GMU9OS2MlqckSKukrl6dyCsoibQPaEVb864\n/G48pu6PxUTjXX2iUsfYNcxIVQKBgQDERyu+ueBZcZ+NkJpxX3oqvTkzPgdnv+Si\nopPHXT+rbDkxT917o0lfEFJoyor8Zcm850GReLS67nC6hoOeAIOC5FD1fW+pLY8R\nj1B6qEJfdr9OXgr2f8mP06ecg0iYFT1CwYHQc+USwYBvoQ6vWjeG6S2lxXR6QfJU\neH6TiSbatQKBgQCtlHdjrFW0wvkruFwahmmkPPSddZXjUWHbVJd9nXaA5+onIubk\ng86X9/o9AIjYL4TUUM4BU9SFJZqllSNamy17qaBr+GyLyS52K8/8hxs9EPWEcX6x\n/kO7uASg6g0fP6pSo2frkJtCe3oe5Gigf5RJO6zq+BF64UQhl09ePQ5T1QKBgQCW\nk1b+8ZAobh+ONgIVub56LUJFim+Z6z/WeMzQJDxlIRhbOT7by+/MyzO9iqzHZrs2\nfV7y39wekC/RGMK+IvzBHLDzM/DGo9nfCcge4RhSLkIjN8hHRM931FMAokK90YV2\nwgb5yP9SvTnv6WnfomF40UggpXNvG0px/SJ1wsEZBQKBgGTn1rJhkz4nce2dMGn2\nJV+zyS3P5p+oH2CK3wB9ptzo0ekrKGrmrqE27bxX1+6HCGk004dCdGm9/TMZDJJz\ntRuG72sOQbWe9cReVLo6yxCFW/DH/WtLeULck0pcwhu/z+si0dLoMKMSZ/hmoLwv\n2E2Nwf3dc5zKc0h00o3t0gzI\n-----END PRIVATE KEY-----\n",
+  "client_email": "dt-temp-ca2@iotca2-dt-temperature-212809.iam.gserviceaccount.com",
+  "client_id": "111878957185877023420",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dt-temp-ca2%40iotca2-dt-temperature-212809.iam.gserviceaccount.com"
+}
