@@ -77,3 +77,8 @@ These are some of the following Libraries that needs to be installed, more of th
 - telepot
  
 - python-opencv
+
+
+## Youtube Video
+Our YouTube video can be found at
+https://youtu.be/0yecuXM2T4I
